@@ -1,4 +1,6 @@
-flask
-numpy
-scikit-learn
+Flask
+flask-cors
 gunicorn
+numpy
+pandas
+scikit-learn
